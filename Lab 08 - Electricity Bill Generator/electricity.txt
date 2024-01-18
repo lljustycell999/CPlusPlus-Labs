@@ -1,0 +1,33 @@
+4
+Steve Jobs
+125 Apple Street
+Cupertino, California 95014
+592395354
+CF1550-1
+11/20/2020
+1000
+250
+Bill Gates
+420 Microsoft Avenue
+Redmond, Washington 98052
+375769315
+VR23-003
+11/20/2020
+2250
+780
+Jeff Bezos
+64 Amazon Drive
+Seattle, Washington 98101
+824759550
+ZB75-215
+11/20/2020
+600
+500
+Walt Disney
+7000 Magical Lane
+Orlando, Florida 32830
+473727899
+CD1895-5
+11/20/2020
+4000
+3800
