@@ -1,0 +1,16 @@
+Enter Name of File: weather.txt
+Enter Today's Date: 04/13/2021
+Date: 04/13/2021
+
+Time     Air Temp      Wind Speed    Wind Direction    Humidity    Bar Pressure
+12:00AM     33.24            9.40                NW        0.16           28.07
+12:10AM     33.07            8.48                NW        0.16           28.05
+12:20AM     33.97            8.67                NW        0.17           28.05
+12:00PM     43.45           13.56                 N        0.24           34.65
+12:10PM     44.32           14.75                 N        0.18           34.80
+11:30PM     58.21           31.55                SE        0.15           28.51
+11:40PM     58.09           31.01                SE        0.14           28.50
+11:50PM     57.50           30.40                SE        0.15           28.49
+
+RUN SUCCESSFUL (total time: 7s)
+
