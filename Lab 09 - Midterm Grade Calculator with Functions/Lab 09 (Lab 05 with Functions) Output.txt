@@ -1,0 +1,17 @@
+Name of Student: Eugene Krabs
+Student Address, City, State, and Zip Code: 2219 Anchor St. Bikini Bottom, NY, 13619
+Jefferson Community College
+Eugene Krabs
+2219 Anchor St. Bikini Bottom, NY, 13619
+
+Grades
+Exam Homework Labs Quizzes
+  85       92   90      70
+                70      75
+                95
+                40
+
+Midterm Average: 79.02
+
+RUN SUCCESSFUL (total time: 17s)
+
