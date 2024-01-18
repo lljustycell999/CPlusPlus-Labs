@@ -1,0 +1,21 @@
+Enter the Name of the Vessel in Distress: SS Watertown
+Enter the Date and Time of Incident: April 9th, 2004 at 5:15 AM
+Enter Number of People to be Rescued: 47
+Enter the X coordinate of the Vessel in Distress: 15
+Enter the Y coordinate of the Vessel in Distress: 20
+Rescue Summary
+Vessel in Distress: SS Watertown
+Incident Date and Time: April 9th, 2004 at 5:15 AM
+Number of People Aboard: 47
+Incident Location: (15,20)
+ Vessel Number  Capacity  Distance  Rescue Time
+      1            8            5    0.227273
+      2            5      18.0278    0.600925
+      3           25      18.2483     1.52069
+      4           14      17.2047    0.905508
+      5            8      14.4222    0.627052
+      6           25            5    0.416667
+      7            8      3.60555    0.163889
+
+RUN SUCCESSFUL (total time: 18s)
+
