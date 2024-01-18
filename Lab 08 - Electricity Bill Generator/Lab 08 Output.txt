@@ -1,0 +1,59 @@
+Bikini Bottom Power
+Steve Jobs
+125 Apple Street
+Cupertino, California 95014
+
+             Account Number:                      592395354
+               Meter Number:                       CF1550-1
+                       Date:                     11/20/2020
+
+      Present Reading (kWh):                        1000.00
+     Previous Reading (kWh):                         250.00
+Usage for this period (kWh):                         750.00
+             Amount Due ($):                         131.70
+
+Bikini Bottom Power
+Bill Gates
+420 Microsoft Avenue
+Redmond, Washington 98052
+
+             Account Number:                      375769315
+               Meter Number:                       VR23-003
+                       Date:                     11/20/2020
+
+      Present Reading (kWh):                        2250.00
+     Previous Reading (kWh):                         780.00
+Usage for this period (kWh):                        1470.00
+             Amount Due ($):                         266.50
+
+Bikini Bottom Power
+Jeff Bezos
+64 Amazon Drive
+Seattle, Washington 98101
+
+             Account Number:                      824759550
+               Meter Number:                       ZB75-215
+                       Date:                     11/20/2020
+
+      Present Reading (kWh):                         600.00
+     Previous Reading (kWh):                         500.00
+Usage for this period (kWh):                         100.00
+             Amount Due ($):                          52.11
+
+Bikini Bottom Power
+Walt Disney
+7000 Magical Lane
+Orlando, Florida 32830
+
+             Account Number:                      473727899
+               Meter Number:                       CD1895-5
+                       Date:                     11/20/2020
+
+      Present Reading (kWh):                        4000.00
+     Previous Reading (kWh):                        3800.00
+Usage for this period (kWh):                         200.00
+             Amount Due ($):                          49.50
+
+
+RUN SUCCESSFUL (total time: 144ms)
+
