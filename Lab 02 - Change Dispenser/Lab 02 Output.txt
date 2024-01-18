@@ -1,0 +1,22 @@
+Enter Amount Due: 321.57
+Enter Amount Tendered: 400.00
+Amount Due: 321.57
+Amount Tendered: 400
+
+Change Due: 78.43
+
+Give the following Bills: 
+3 - $20 Bill(s) 
+1 - $10 Bill(s) 
+1 - $5 Bill(s) 
+3 - $1 Bill(s) 
+
+Give the following Coins: 
+1 - Quarter(s) 
+1 - Dime(s) 
+1 - Nickel(s) 
+3 - Pennie(s) 
+
+RUN SUCCESSFUL (total time: 6s)
+
+
