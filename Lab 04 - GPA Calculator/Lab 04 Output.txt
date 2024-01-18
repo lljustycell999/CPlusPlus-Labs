@@ -1,0 +1,36 @@
+Enter Student Name: Spongebob Squarepants
+Enter Semester: Fall 2020
+Enter Course 1 Name: PRG 101 - Programming I
+Enter Course 1 Attempted Hours: 3
+Enter Course 1 Grade Weight: 4
+Enter Course 2 Name: BAS 110 - Basket Weaving
+Enter Course 2 Attempted Hours: 4
+Enter Course 2 Grade Weight: 1
+Enter Course 3 Name: ART 101 - Watercolors
+Enter Course 3 Attempted Hours: 1
+Enter Course 3 Grade Weight: 4
+Enter Course 4 Name: BUS 109 - Sales Concepts
+Enter Course 4 Attempted Hours: 3
+Enter Course 4 Grade Weight: 3
+Enter Course 5 Name: PHY 107 - Basic Physics
+Enter Course 5 Attempted Hours: 4
+Enter Course 5 Grade Weight: 4
+Enter Course 6 Name: BOAT 101 - Basics of Boating
+Enter Course 6 Attempted Hours: 3
+Enter Course 6 Grade Weight: 0
+GPA Report for Spongebob Squarepants (Fall 2020 semester)
+
+Course Name                          Att. Hrs.          Grd. Wght.
+PRG 101 - Programming I                 3                   4
+BAS 110 - Basket Weaving                4                   1
+ART 101 - Watercolors                   1                   4
+BUS 109 - Sales Concepts                3                   3
+PHY 107 - Basic Physics                 4                   4
+BOAT 101 - Basics of Boating            3                   0
+
+Total Attempted Hours: 18
+Total Quality Points: 45
+GPA: 2.5
+
+RUN SUCCESSFUL (total time: 1m 54s)
+
