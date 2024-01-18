@@ -1,0 +1,8 @@
+Generate Bill[1] or Change Prices[2]?: 2
+Enter New Price for Binford 6100 Saw (6099.99): 9001.95
+Enter New Price for Binford 250 Paint Boy (249.99): 2456.78
+Enter New Price for Binford 300 Blow Torch (299.99): 3000.25
+
+RUN SUCCESSFUL (total time: 33s)
+
+

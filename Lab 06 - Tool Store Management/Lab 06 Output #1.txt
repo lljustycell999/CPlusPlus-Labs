@@ -1,0 +1,26 @@
+Generate Bill[1] or Change Prices[2]?: 1
+Enter Customer Name: Tom Taylor
+Enter Customer Street Address: 400 Renaissance Center
+Enter City, State, Zip: Detroit, MI 48243
+Enter Quantity of Binford 6100 Saw (6099.99): 1
+Enter Quantity of Binford 250 Paint Boy (249.99): 0
+Enter Quantity of Binford 300 Blow Torch (299.99): 3
+                                                                   MIRACLE TOOLS
+                                                      When it's a good tool, it's a MIRACLE!
+
+Tom Taylor
+400 Renaissance Center
+Detroit, MI 48243
+
+Tool                                   Price            Quantity              Extended Cost
+Binford 6100 Saw                     6099.99                   1                    6099.99
+Binford 300 Blow Torch                299.99                   3                     899.97
+
+                                                                Subtotal:           6999.96
+
+                                                                Tax (8.0%):          560.00
+
+                                                                Total:              7559.96
+
+RUN SUCCESSFUL (total time: 29s)
+
