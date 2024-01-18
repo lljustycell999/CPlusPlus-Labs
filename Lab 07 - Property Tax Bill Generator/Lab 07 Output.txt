@@ -1,0 +1,155 @@
+Enter Current Date: 11/13/2020
+Enter Due Date: 01/04/2021
+             City of Bikini Bottom
+
+               Property Tax Bill
+
+11/13/2020
+
+SpongeBob SquarePants
+124 Conch Street
+Bikini Bottom, Pacific Ocean 13579
+
+Current assessed value:  43065.00
+
+Property tax due:  2153.25
+
+Date DUE:  01/04/2021
+             City of Bikini Bottom
+
+               Property Tax Bill
+
+11/13/2020
+
+Eugene Krabs
+2219 Anchor Street
+Bikini Bottom, Pacific Ocean 13579
+
+Current assessed value:  26543.00
+
+Property tax due:  1061.72
+
+Date DUE:  01/04/2021
+             City of Bikini Bottom
+
+               Property Tax Bill
+
+11/13/2020
+
+Mr. What Zit Tooya
+150 Shell Street
+Bikini Bottom, Pacific Ocean 13579
+
+Current assessed value:  130223.00
+
+Property tax due:  7813.38
+
+Date DUE:  01/04/2021
+             City of Bikini Bottom
+
+               Property Tax Bill
+
+11/13/2020
+
+Patrick Star
+120 Conch Street
+Bikini Bottom, Pacific Ocean 13579
+
+Current assessed value:  34002.00
+
+Property tax due:  1700.10
+
+Date DUE:  01/04/2021
+             City of Bikini Bottom
+
+               Property Tax Bill
+
+11/13/2020
+
+Sheldon J. Plankton
+830 Bottomfeeder Lane
+Bikini Bottom, Pacific Ocean 13579
+
+Current assessed value:  120553.00
+
+Property tax due:  7233.18
+
+Date DUE:  01/04/2021
+             City of Bikini Bottom
+
+               Property Tax Bill
+
+11/13/2020
+
+Squidward Tentacles
+122 Conch Street
+Bikini Bottom, Pacific Ocean 13579
+
+Current assessed value:  54677.00
+
+Property tax due:  2733.85
+
+Date DUE:  01/04/2021
+             City of Bikini Bottom
+
+               Property Tax Bill
+
+11/13/2020
+
+Mrs. Puff
+222 Coral Avenue
+Bikini Bottom, Pacific Ocean 13579
+
+Current assessed value:  35660.00
+
+Property tax due:  1783.00
+
+Date DUE:  01/04/2021
+             City of Bikini Bottom
+
+               Property Tax Bill
+
+11/13/2020
+
+Sandy Cheeks
+126 Conch Street
+Bikini Bottom, Pacific Ocean 13579
+
+Current assessed value:  120554.00
+
+Property tax due:  7233.24
+
+Date DUE:  01/04/2021
+             City of Bikini Bottom
+
+               Property Tax Bill
+
+11/13/2020
+
+Squilliam Fancyson
+300 King Street
+Bikini Bottom, Pacific Ocean 13579
+
+Current assessed value:  150032.00
+
+Property tax due:  9001.92
+
+Date DUE:  01/04/2021
+                         City of Bikini Bottom
+
+                        Property Tax Statistics
+
+                            As of 11/13/2020
+
+Number of assessments below $10,001:                                        0
+
+Number of assessments between $10,001-$30,000:                              1
+
+Number of assessments between $30,001-$60,000:                              4
+
+Number of assessments above $60,000:                                        4
+
+Total taxes:                                                         40713.64
+
+RUN SUCCESSFUL (total time: 8s)
+
