@@ -1,2 +1,1 @@
-# CIS 116 - Introductory Programming
-This repository contains the programming labs completed as part of the CIS 116 - Introductory Programming course at SUNY Jefferson taught be Professor Austin Schwartz.
+This repository contains several completed C++ programming labs as part of an introductory programming course.
